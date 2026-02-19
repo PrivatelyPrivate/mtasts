@@ -15,7 +15,7 @@ const stsPolicies =
 mode: enforce
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
-max_age: 86400`
+max_age: 31557600
 
 // Do not edit below here unless you know what you are doing.
 
